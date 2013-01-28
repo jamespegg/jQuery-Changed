@@ -11,7 +11,7 @@ $(window).changed(function(){
 });
 ```
 
-You can also use a handler, like this:
+You can also pass on the object directly, like this:
 ```javascript
 var myFunc = function(){
 	// Your Code
